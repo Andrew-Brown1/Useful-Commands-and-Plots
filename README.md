@@ -11,6 +11,10 @@ A growing list of useful commands that I have Google'd too many times...
 
 *ffmpeg -i in.mkv -c copy -c:a aac out.mp4*
 
+- cut an mp4 of length "duration" starting from time "start" (seconds)
+
+*ffmpeg -i in.mp4 -ss start -t duration -async 1 out.mp4*
+
 # LaTeX
 
 - order the references (e.g. [2,1,6] --> [1,2,6])
