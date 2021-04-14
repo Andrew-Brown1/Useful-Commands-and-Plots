@@ -22,3 +22,7 @@ A growing list of useful commands that I have Google'd too many times...
 - quickly check size of directories in current directory
 
 *for i in `ls ` ; do nice du -sh $i ; done*
+
+- untar a tar.gz into current directory
+
+* tar -xzvf file.tar.gz
