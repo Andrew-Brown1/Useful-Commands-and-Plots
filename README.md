@@ -1,5 +1,5 @@
 # Useful_Commands
-A growing list of useful commands that I have Google'd to many times...
+A growing list of useful commands that I have Google'd too many times...
 
 # FFMPEG 
 
