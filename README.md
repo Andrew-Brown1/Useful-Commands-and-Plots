@@ -7,6 +7,10 @@ A growing list of useful commands that I have Google'd too many times...
 
 *ffmpeg -i in.mp4 -filter:v "crop=out_w:out_h\:0:0" out.mp4*
 
+- convert MKV file to MP4
+
+*ffmpeg -i in.mkv -c copy -c:a aac out.mp4*
+
 # LaTeX
 
 - order the references (e.g. [2,1,6] --> [1,2,6])
