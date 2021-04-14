@@ -25,4 +25,4 @@ A growing list of useful commands that I have Google'd too many times...
 
 - untar a tar.gz into current directory
 
-* tar -xzvf file.tar.gz*
+*tar -xzvf file.tar.gz*
