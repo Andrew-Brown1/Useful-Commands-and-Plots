@@ -2,4 +2,4 @@
 
 *multiple_bar_chart.py*
 
-![alt text](http://url/to/img.png)
+![alt text](images/Eval1_bars.png)
