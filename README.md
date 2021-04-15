@@ -39,7 +39,7 @@ A growing list of useful commands that I have Google'd too many times...
 
 # Scripts for python plots
 
-*multiple_bar_chart.py*
+*plots/multiple_bar_chart.py*
 
 ![alt text](plots/images/Eval1_bars.png)
 
