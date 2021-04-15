@@ -1,6 +1,8 @@
 # Useful_Commands
 A growing list of useful commands that I have Google'd too many times...
 
+- /plots contains scripts for specific python plots
+
 # FFMPEG 
 
 - cropping a video, starting from top left corner (0,0)
