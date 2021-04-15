@@ -1,4 +1,4 @@
-# Useful_Commands
+# Useful Commands & Python plots
 A growing list of useful commands that I have Google'd too many times...
 
 - /plots contains scripts for specific python plots
