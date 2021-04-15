@@ -36,3 +36,10 @@ A growing list of useful commands that I have Google'd too many times...
 - untar a tar.gz into current directory
 
 *tar -xzvf file.tar.gz*
+
+# Scripts for python plots
+
+*multiple_bar_chart.py*
+
+![alt text](plots/images/Eval1_bars.png)
+
