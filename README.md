@@ -37,6 +37,10 @@ A growing list of useful commands that I have Google'd too many times...
 
 *tar -xzvf file.tar.gz*
 
+- recursively search for string in files
+
+*grep -rnw '/path/to/somewhere/' -e 'pattern'*
+
 # Scripts for python plots
 
 *plots/multiple_bar_chart.py*
