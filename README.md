@@ -17,6 +17,10 @@ A growing list of useful commands that I have Google'd too many times...
 
 *ffmpeg -i in.mp4 -ss start -t duration -async 1 out.mp4*
 
+- resize an mp4 
+
+*ffmpeg -i in.mp4 -s 720x480 -c:a copy out.mp4*
+
 # LaTeX
 
 - order the references (e.g. [2,1,6] --> [1,2,6])
