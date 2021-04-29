@@ -50,13 +50,15 @@ A growing list of useful commands that I have Google'd too many times...
 
 *grep -rnw '/path/to/somewhere/' -e 'pattern'*
 
-# Python - OpenCV
+# Python
+
+## OpenCV
 
 - Draw a rectangle on an image
 
 *image = cv2.rectangle(image, (ROI[0], ROI[1]), (ROI[2], ROI[3]), colour, line_width)*
 
-# Python - other
+## Other
 
 - get a timecode string from number of seconds. i.e. 25.8 -> '0:00:25.800'
 
