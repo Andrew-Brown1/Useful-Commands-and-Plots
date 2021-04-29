@@ -45,6 +45,12 @@ A growing list of useful commands that I have Google'd too many times...
 
 *grep -rnw '/path/to/somewhere/' -e 'pattern'*
 
+# Other (Python)
+
+- get a timecode string from number of seconds. i.e. 25.8 -> '0:00:25.800'
+
+*import datetime; print(str(datetime.timedelta(seconds=25.8)))*
+
 # Scripts for python plots
 
 *plots/multiple_bar_chart.py*
