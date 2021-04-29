@@ -21,6 +21,10 @@ A growing list of useful commands that I have Google'd too many times...
 
 *ffmpeg -i in.mp4 -s 720x480 -c:a copy out.mp4*
 
+- extract a frame at a specific time code
+
+*"ffmpeg -i "+input_video+" -ss "+time_code+" -frames:v 1 " + output_path*
+
 # LaTeX
 
 - order the references (e.g. [2,1,6] --> [1,2,6])
