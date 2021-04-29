@@ -50,6 +50,10 @@ A growing list of useful commands that I have Google'd too many times...
 
 *grep -rnw '/path/to/somewhere/' -e 'pattern'*
 
+- tar a directory
+
+*tar -czvf name-of-archive.tar.gz /path/to/directory-or-file*
+
 # Python
 
 ## OpenCV
