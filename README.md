@@ -24,6 +24,7 @@ A growing list of useful commands that I have Google'd too many times...
 - extract a frame at a specific time code
 
 *"ffmpeg -i "+input_video+" -ss "+time_code+" -frames:v 1 " + output_path*
+(but for way quicker: import mmcv; video = mmcv.VideoReader(input_video); image = video[int(frame_ind)] )
 
 # LaTeX
 
