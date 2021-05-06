@@ -34,6 +34,10 @@ A growing list of useful commands that I have Google'd too many times...
 
 *add " >/dev/null 2>&1" to end of command*
 
+- merge the visial from input1.mp4 and the audio from input2.mp4
+
+*ffmpeg -i input1.mp4 -i input2.mp4 -c copy -map 0:0 -map 1:1 -shortest out.mp4*
+
 # LaTeX
 
 - order the references (e.g. [2,1,6] --> [1,2,6])
