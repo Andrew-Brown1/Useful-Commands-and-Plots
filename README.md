@@ -30,6 +30,10 @@ A growing list of useful commands that I have Google'd too many times...
 
 *"ffmpeg -i in.mp4 -i in.wav -c:v copy -c:a copy out.mov"*
 
+- suppress printed terminal output
+
+*add " >/dev/null 2>&1" to end of command*
+
 # LaTeX
 
 - order the references (e.g. [2,1,6] --> [1,2,6])
