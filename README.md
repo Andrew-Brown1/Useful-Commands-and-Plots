@@ -26,6 +26,10 @@ A growing list of useful commands that I have Google'd too many times...
 *"ffmpeg -i "+input_video+" -ss "+time_code+" -frames:v 1 " + output_path*
 (but for way quicker: import mmcv; video = mmcv.VideoReader(input_video); image = video[int(frame_ind)] )
 
+- merge the audio from a wav file and the video from an mp4
+
+*"ffmpeg -i in.mp4 -i in.wav -c:v copy -c:a copy out.mov"*
+
 # LaTeX
 
 - order the references (e.g. [2,1,6] --> [1,2,6])
