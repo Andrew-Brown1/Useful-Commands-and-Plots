@@ -86,3 +86,7 @@ A growing list of useful commands that I have Google'd too many times...
 
 ![alt text](plots/images/Eval1_bars.png)
 
+*plots/double_histogram.py*
+
+![alt text](plots/images/double_histo.png)
+
