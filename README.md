@@ -38,6 +38,10 @@ A growing list of useful commands that I have Google'd too many times...
 
 *ffmpeg -i input1.mp4 -i input2.mp4 -c copy -map 0:0 -map 1:1 -shortest out.mp4*
 
+- Compress video 
+
+*ffmpeg -i input.mp4 -vcodec h264 -acodec aac output.mp4*
+
 # LaTeX
 
 - order the references (e.g. [2,1,6] --> [1,2,6])
