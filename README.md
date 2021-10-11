@@ -44,7 +44,7 @@ A growing list of useful commands that I have Google'd too many times...
 
 -- spped up / slow down video and audio (example of speeding up by factor of (289/314)
 
-*ffmpeg -i in.mp4 -filter_complex "[0:v]setpts=(289/314)*PTS[v];[0:a]atempo=(314/289)[a]" -map "[v]" -map "[a]" out.mp4*
+*ffmpeg -i in.mp4 -filter_complex "[0:v]setpts=(289/314)\*PTS[v];[0:a]atempo=(314/289)[a]" -map "[v]" -map "[a]" out.mp4*
 
 # LaTeX
 
