@@ -100,5 +100,5 @@ A growing list of useful commands that I have Google'd too many times...
 
 *plots/two_y_axes.py*
 
-![alt text](plots/images/two_y_axes.jpg)
+![alt text](plots/images/two_y_axis.jpg)
 
